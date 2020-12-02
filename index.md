@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: VeryCute.com.au
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: VeryCute is a rabbit only boarding service based in Sydney Australia.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# VeryCute - A rabbit specific boarding service.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+VeryCute is a rabbit specific boarding service based in Sydney Australia.
