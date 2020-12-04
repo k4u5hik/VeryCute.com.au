@@ -10,3 +10,4 @@ intro_image_hide_on_mobile: true
 # VeryCute - A rabbit specific boarding service.
 
 VeryCute is a rabbit specific boarding service based in Sydney Australia.
+We also provide information resources for bunnies with additional needs.
