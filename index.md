@@ -11,6 +11,6 @@ intro_image_hide_on_mobile: true
 
 Welcome to Very Cute Bun's Boarding and Holiday Resort!
 
-We are a rabbit specific boarding service based in Sydney Australia. 
+We are a rabbit specific boarding service based in the InnerWest Sydney, Australia. 
 We specialise at looking after both young and senior bunnies. 
 We also provide information resources for bunnies with additional needs.
