@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'VeryCute.com.au - Rabbit specific boarding based in the InnerWest of Sydney'
 
 google_analytics_id: ""
 homepage:
@@ -11,17 +11,17 @@ logo:
   desktop: "images/logo/logo.svg"
   desktop_height: "36px"
 footer:
-  copyright_text: 'Website designed by <a class="Kaushik" href="https://www.kaushik.com.au/">Kaushik</a>'
+  copyright_text: 'Designed by <a class="Kaushik" href="https://www.kaushik.com.au/">Kaushik</a>'
 
 seo:
-  meta_og_title: "Jekyll Serif Theme"
+  meta_og_title: "VeryCute.com.au"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
+  meta_og_url: "https://verycute.com.au"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Jekyll Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description: "We are a Rabbit specific boarding based in the InnerWest of Sydney"
   meta_twitter_card: "summary"
-  meta_twitter_site: "@zerostaticio"
-  meta_twitter_creator: "@zerostaticio"
+  meta_twitter_site: "@_Kaushik"
+  meta_twitter_creator: "@_Kaushik"
 
 collections:
   services:
