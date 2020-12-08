@@ -41,8 +41,8 @@
      id="namedview18"
      showgrid="false"
      inkscape:zoom="4.3875"
-     inkscape:cx="104.31579"
-     inkscape:cy="1.9145299"
+     inkscape:cx="103.17619"
+     inkscape:cy="3.7378917"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -58,7 +58,7 @@
     <g
        id="logo"
        fill-rule="nonzero"
-       transform="translate(-1.6467236,17.777778)">
+       transform="matrix(0.71670744,0,0,0.64889049,0.92129225,10.487421)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
@@ -80,20 +80,17 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.0039px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.50025"
-       x="173.58098"
-       y="23.3799"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4853px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15533"
+       x="5.0374718"
+       y="56.492203"
        id="text40"
-       transform="scale(0.94145578,1.0621848)"><tspan
+       transform="scale(1.0127244,0.98743543)"><tspan
          sodipodi:role="line"
-         id="tspan38"
-         x="173.58098"
-         y="23.3799"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.0039px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:1.50025">Bunny</tspan><tspan
-         sodipodi:role="line"
-         x="173.58098"
-         y="53.529057"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.0039px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:1.50025"
-         id="tspan56"> Hotel</tspan></text>
+         x="5.0374718"
+         y="56.492203"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4853px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:1.15533"
+         id="tspan56"><tspan
+   style="fill:#d40000"
+   id="tspan62">Bunny</tspan> Hotel</tspan></text>
   </g>
 </svg>
