@@ -58,39 +58,44 @@
     <g
        id="logo"
        fill-rule="nonzero"
-       transform="matrix(0.71670744,0,0,0.64889049,0.92129225,10.487421)">
+       transform="matrix(0.71670744,0,0,0.64889049,1.6050529,12.310782)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
-         x="6.8888898"
-         y="38.518517"
+         x="19.291285"
+         y="54.324589"
          id="text26"><tspan
            sodipodi:role="line"
            id="tspan24"
-           x="6.8888898"
-           y="38.518517"><tspan
+           x="19.291285"
+           y="54.324589"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan30">Very</tspan><tspan
    id="tspan54"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d40000">Cute</tspan> </tspan><tspan
            sodipodi:role="line"
-           x="6.8888898"
-           y="103.62716"
+           x="19.291285"
+           y="119.43324"
            id="tspan28" /></text>
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4853px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.15533"
-       x="5.0374718"
-       y="56.492203"
+       x="139.62128"
+       y="26.716372"
        id="text40"
-       transform="scale(1.0127244,0.98743543)"><tspan
+       transform="scale(1.0127244,0.98743547)"><tspan
          sodipodi:role="line"
-         x="5.0374718"
-         y="56.492203"
+         x="139.62128"
+         y="26.716372"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4853px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:1.15533"
          id="tspan56"><tspan
    style="fill:#d40000"
-   id="tspan62">Bunny</tspan> Hotel</tspan></text>
+   id="tspan62">Bunny</tspan> </tspan><tspan
+         sodipodi:role="line"
+         x="139.62128"
+         y="49.934109"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4853px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:1.15533"
+         id="tspan82">Hotel</tspan></text>
   </g>
 </svg>
