@@ -61,22 +61,25 @@
        transform="matrix(0.71670744,0,0,0.64889049,1.6050529,12.310782)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:1.25;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
-         x="19.291285"
-         y="54.324589"
-         id="text26"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:69.7353px;line-height:1.25;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.45282"
+         x="5.1804047"
+         y="62.326729"
+         id="text26"
+         transform="scale(0.93419991,1.0704347)"><tspan
            sodipodi:role="line"
            id="tspan24"
-           x="19.291285"
-           y="54.324589"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+           x="5.1804047"
+           y="62.326729"
+           style="stroke-width:1.45282"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:92.9804px;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1.45282"
    id="tspan30">Very</tspan><tspan
    id="tspan54"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d40000">Cute</tspan> </tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:92.9804px;font-family:'Amatic SC';-inkscape-font-specification:'Amatic SC, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d40000;stroke-width:1.45282">Cute</tspan> </tspan><tspan
            sodipodi:role="line"
-           x="19.291285"
-           y="119.43324"
-           id="tspan28" /></text>
+           x="5.1804047"
+           y="156.91779"
+           id="tspan28"
+           style="stroke-width:1.45282" /></text>
     </g>
     <text
        xml:space="preserve"
@@ -89,13 +92,6 @@
          x="139.62128"
          y="26.716372"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4853px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:1.15533"
-         id="tspan56"><tspan
-   style="fill:#d40000"
-   id="tspan62">Bunny</tspan> </tspan><tspan
-         sodipodi:role="line"
-         x="139.62128"
-         y="49.934109"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.4853px;font-family:'American Typewriter';-inkscape-font-specification:'American Typewriter, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2b1100;stroke-width:1.15533"
-         id="tspan82">Hotel</tspan></text>
+         id="tspan82" /></text>
   </g>
 </svg>
