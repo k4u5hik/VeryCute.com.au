@@ -125,7 +125,7 @@ models:
               allowed.
             default: 10
       - type: list
-        name: plugins
+        name: _plugins
         label: Plugins
         hidden: true
       - type: list
